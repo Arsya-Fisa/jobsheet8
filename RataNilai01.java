@@ -23,6 +23,5 @@ public class RataNilai01 {
             i++;
             }
             
-        }
-    
+        }  
 }
